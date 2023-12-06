@@ -1,0 +1,218 @@
+baseURL: "https://kejeon.com/"
+title: Kang Eun Jeon
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Kang Eun Jeon
+  description: "Kang Eun Jeon"
+  keywords: [Blog, Portfolio]
+  author: Kang Eun Jeon
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "kejeon"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Kang Eun Jeon
+    subtitle: "Kang Eun Jeon is a post-doctoral researcher in the Convergence Research Institute at SungKyunKwan University (SKKU). Before joining SKKU, he received his Ph.D. degree in Electronic and Computer Engineering under the supervision of Prof. James She. His doctoral thesis focused on designing smart BLE beacons to enable sustainable IoT via hardware, firmware, and machine learning co-designs. His research interests now expand to various on-device machine learning techniques that jointly optimize device power consumption and performance."
+    imageUrl: "/profile_photo.jpeg"
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: 
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Kang Eun Jeon"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: cv
+      url: "/kang_cv.pdf"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/kejeon/"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=kRYac24AAAAJ&hl=en"
+    - name: github
+      url: "https://github.com/kejeon"
+    - name: email
+      url: "mailto:kejeon@skku.edu"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    taxonomies:
+      tag: tags
+      category: categories
+      series: series
+    menu:
+      main:
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 10
+        - identifier: team
+          name: team
+          url: /team/
+          weight: 20
+        - identifier: research
+          name: research
+          url: /research/
+          weight: 30
+        - identifier: teaching
+          name: teaching
+          url: /teaching/
+          weight: 40
+        - identifier: publications
+          name: publications
+          url: /publications/
+          weight: 50
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 60
+        - identifier: IRIS Lab.
+          name: IRIS Lab.
+          url: http://iris.skku.edu/
+          weight: 70
+  ko:
+    languageName: Korean
+    weight: 2
+    taxonomies:
+      tag: KOtags
+      category: KOcategories
+      series: KOseries
+    profileMode:
+      enabled: true # needs to be explicitly set
+      title: Kang Eun Jeon
+      subtitle: "전강은 박사는 성균관대학교 컨버젼스연구소의 연구원으로 근무하고 있습니다. 성균관대에 합류하기 전에 그는 전자 및 컴퓨터 공학 분야에서 James She 교수의 지도 아래 박사 학위를 받았습니다. 박사 학위 논문은 스마트 BLE 비콘을 디자인하여 하드웨어, 펌웨어 및 머신 러닝 공동 설계를 통해 지속 가능한 사물인터넷을 가능하게 하는 데 중점을 두었습니다. 현재 그의 연구 관심은 기기 전력 소비와 성능을 공동으로 최적화하는 다양한 장치 내 머신 러닝 기술로 확장되고 있습니다"
+      imageUrl: "/profile_photo.jpeg"
+      imageWidth: 250
+      imageHeight: 250
+      imageTitle: 
+      buttons:
+        - name: Posts
+          url: posts
+        - name: Tags
+          url: tags
+    menu:
+      main:
+        - identifier: KOabout
+          name: about
+          url: /ko-about/
+          weight: 10
+        - identifier: KOteam
+          name: team
+          url: /ko-team/
+          weight: 20
+        - identifier: research
+          name: research
+          url: /ko-research/
+          weight: 30
+        - identifier: KOteaching
+          name: teaching
+          url: /ko-teaching/
+          weight: 40
+        - identifier: KOpublications
+          name: publications
+          url: /ko-publications/
+          weight: 50
+        - identifier: KOarchives
+          name: archives
+          url: /ko-archives/
+          weight: 60
+        - identifier: IRIS Lab.
+          name: IRIS Lab.
+          url: http://iris.skku.edu/
+          weight: 70
+
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
