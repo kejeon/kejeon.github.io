@@ -70,6 +70,18 @@
                 href="https://kejeon.github.io/teaching/ice3028/"
                 />
   </url><url>
+    <loc>https://kejeon.github.io/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/publications/"
+                />
+  </url><url>
     <loc>https://kejeon.github.io/research/</loc>
     <xhtml:link
                 rel="alternate"
