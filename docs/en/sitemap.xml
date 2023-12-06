@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kejeon.com/team/kejeon/</loc>
+    <loc>https://kejeon.github.io/team/kejeon/</loc>
   </url><url>
-    <loc>https://kejeon.com/team/jhko/</loc>
+    <loc>https://kejeon.github.io/team/jhko/</loc>
   </url><url>
-    <loc>https://kejeon.com/tags/emoji/</loc>
+    <loc>https://kejeon.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejeon.com/posts/emoji-support/</loc>
+    <loc>https://kejeon.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejeon.com/</loc>
+    <loc>https://kejeon.github.io/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://kejeon.com/ko/"
+                href="https://kejeon.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kejeon.com/"
+                href="https://kejeon.github.io/"
                 />
   </url><url>
-    <loc>https://kejeon.com/posts/</loc>
+    <loc>https://kejeon.github.io/posts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejeon.com/tags/</loc>
+    <loc>https://kejeon.github.io/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejeon.com/about/</loc>
+    <loc>https://kejeon.github.io/about/</loc>
   </url><url>
-    <loc>https://kejeon.com/categories/</loc>
+    <loc>https://kejeon.github.io/categories/</loc>
   </url><url>
-    <loc>https://kejeon.com/research/</loc>
+    <loc>https://kejeon.github.io/research/</loc>
   </url><url>
-    <loc>https://kejeon.com/series/</loc>
+    <loc>https://kejeon.github.io/series/</loc>
   </url><url>
-    <loc>https://kejeon.com/team/</loc>
+    <loc>https://kejeon.github.io/team/</loc>
   </url>
 </urlset>
