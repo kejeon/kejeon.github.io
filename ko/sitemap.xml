@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kejeon.github.io/ko/team/kejeon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/team/kejeon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/team/kejeon/"
+                />
+  </url><url>
+    <loc>https://kejeon.github.io/ko/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/about/"
+                />
+  </url><url>
+    <loc>https://kejeon.github.io/ko/teaching/ice3028/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/teaching/ice3028/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/teaching/ice3028/"
+                />
+  </url><url>
     <loc>https://kejeon.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
@@ -19,5 +55,41 @@
     <loc>https://kejeon.github.io/ko/koseries/</loc>
   </url><url>
     <loc>https://kejeon.github.io/ko/kotags/</loc>
+  </url><url>
+    <loc>https://kejeon.github.io/ko/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/research/"
+                />
+  </url><url>
+    <loc>https://kejeon.github.io/ko/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/teaching/"
+                />
+  </url><url>
+    <loc>https://kejeon.github.io/ko/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kejeon.github.io/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kejeon.github.io/ko/team/"
+                />
   </url>
 </urlset>

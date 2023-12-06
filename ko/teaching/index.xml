@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kang Eun Jeon</title>
-    <link>https://kejeon.github.io/ko/</link>
-    <description>Recent content on Kang Eun Jeon</description>
+    <title>Teaching on Kang Eun Jeon</title>
+    <link>https://kejeon.github.io/ko/teaching/</link>
+    <description>Recent content in Teaching on Kang Eun Jeon</description>
     <image>
       <title>Kang Eun Jeon</title>
       <url>https://kejeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kejeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language><atom:link href="https://kejeon.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>전강은</title>
-      <link>https://kejeon.github.io/ko/team/kejeon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kejeon.github.io/ko/team/kejeon/</guid>
-      <description>blah blah blah</description>
-    </item>
-    
+    <language>ko</language><atom:link href="https://kejeon.github.io/ko/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ICE3028: 임베디드 시스템 설계</title>
       <link>https://kejeon.github.io/ko/teaching/ice3028/</link>
