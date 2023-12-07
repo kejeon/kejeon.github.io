@@ -13,12 +13,39 @@
     <language>en</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kejeon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>John Doe</title>
+      <link>https://kejeon.github.io/team/dykang-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kejeon.github.io/team/dykang-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://kejeon.github.io/team/dykang-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kejeon.github.io/team/dykang-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://kejeon.github.io/team/dykang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kejeon.github.io/team/dykang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kang Eun Jeon</title>
       <link>https://kejeon.github.io/team/kejeon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kejeon.github.io/team/kejeon/</guid>
-      <description>blah blah blah</description>
+      <description></description>
     </item>
     
     <item>
@@ -37,6 +64,15 @@
       
       <guid>https://kejeon.github.io/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
+    </item>
+    
+    <item>
+      <title>[J8] Sensing-aware Machine Learning Framework for Extended Lifetime of IoT Sensors</title>
+      <link>https://kejeon.github.io/publications/c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c1/</guid>
+      <description>Bluetooth Low Energy (BLE) beacon network is one of the essential infrastructures for many IoT and smart city applications that involve a plethora of sensing tasks. However, the BLE beacon network usually suffers from poor reliability and high maintenance costs due to the short-lived battery lifetime. Multiple works have attempted to extend the lifetime via energy harvesting hardware, adaptive advertising interval by user existence-aware operation, and energy-efficient routing schemes. However, few attempts were made to reduce the energy consumption related to sensing tasks. In light of this shortcoming, a sensing-aware framework is proposed to adjust the sensing task interval adaptively based on the predicted portion of changes of the sensor measurements. Furthermore, to estimate the impact of varying sensing task intervals on the amount of sensed information, a model that correlates energy and amount of information is proposed. The sensor portion of changes is predicted with a novel neural network, coined oracle-interpreter network, that significantly reduces the energy consumption while upkeeping a good prediction accuracy by leveraging two independent neural networks tailored for feature extraction and prediction tasks. The effectiveness of the proposed framework is verified by comprehensive simulations based on real-life data. The results demonstrate that the proposed framework can effectively reduce the energy consumption involved in sensing tasks up to 30%, machine learning tasks up to 60%, and finally, extend the lifetime up to 75%.</description>
     </item>
     
     <item>

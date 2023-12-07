@@ -2,17 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kejeon.github.io/team/dykang-copy-2/</loc>
+  </url><url>
+    <loc>https://kejeon.github.io/team/dykang-copy/</loc>
+  </url><url>
+    <loc>https://kejeon.github.io/team/dykang/</loc>
+  </url><url>
     <loc>https://kejeon.github.io/team/kejeon/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kejeon.github.io/ko/team/kejeon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kejeon.github.io/team/kejeon/"
-                />
   </url><url>
     <loc>https://kejeon.github.io/team/jhko/</loc>
   </url><url>
@@ -44,6 +40,8 @@
     <loc>https://kejeon.github.io/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kejeon.github.io/publications/c1/</loc>
+  </url><url>
     <loc>https://kejeon.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +53,8 @@
                 hreflang="en"
                 href="https://kejeon.github.io/about/"
                 />
+  </url><url>
+    <loc>https://kejeon.github.io/tags/ble-beacon/</loc>
   </url><url>
     <loc>https://kejeon.github.io/categories/</loc>
   </url><url>
@@ -70,17 +70,9 @@
                 href="https://kejeon.github.io/teaching/ice3028/"
                 />
   </url><url>
+    <loc>https://kejeon.github.io/tags/iot/</loc>
+  </url><url>
     <loc>https://kejeon.github.io/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kejeon.github.io/ko/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kejeon.github.io/publications/"
-                />
   </url><url>
     <loc>https://kejeon.github.io/research/</loc>
     <xhtml:link
@@ -95,6 +87,8 @@
                 />
   </url><url>
     <loc>https://kejeon.github.io/series/</loc>
+  </url><url>
+    <loc>https://kejeon.github.io/tags/sustainability/</loc>
   </url><url>
     <loc>https://kejeon.github.io/teaching/</loc>
     <xhtml:link
