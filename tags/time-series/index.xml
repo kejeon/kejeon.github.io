@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Time-Series on Kang Eun Jeon</title>
+    <link>https://kejeon.github.io/tags/time-series/</link>
+    <description>Recent content in Time-Series on Kang Eun Jeon</description>
+    <image>
+      <title>Kang Eun Jeon</title>
+      <url>https://kejeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kejeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jan 1970 01:11:40 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[C16] Early detection of global instability via recurrence plots and neural networks</title>
+      <link>https://kejeon.github.io/publications/c16/</link>
+      <pubDate>Sun, 04 Jan 1970 01:11:40 +0900</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c16/</guid>
+      <description>We present a data-driven approach for the early detection of global instability in an axisymmetric low-density jet, a prototypical open shear flow. Under certain conditions, such jets are known to undergo a Hopf bifurcation to global instability in the form of self-excited limit-cycle flow oscillations. Such oscillations are undesirable in many situations, especially when they couple with structural or acoustic modes. Our solution combines the topological visualization capabilities of recurrence plots (RPs) with the classification capabilities of neural networks to create a hybrid framework for early detection of global instability. Specifically, we construct two-dimensional unbinarized RPs from time traces of the local jet velocity measured experimentally in the unconditionally stable fixed-point regime. Using these RPs, we train a residual neural network (ResNet), a deep learning model that uses residual connections to overcome the vanishing gradient problem. Our results indicate that this hybrid framework can generate early warning indicators of global instability using only data collected before the bifurcation point, providing a useful tool for avoiding limit-cycle oscillations in open shear flows.</description>
+    </item>
+    
+    <item>
+      <title>[C9] BLE beacon with user traffic awareness using deep correlation and attention network</title>
+      <link>https://kejeon.github.io/publications/c9/</link>
+      <pubDate>Sat, 03 Jan 1970 19:25:29 +0900</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c9/</guid>
+      <description>Bluetooth Low Energy (BLE) beacon network is one of the essential infrastructures for many IoT and smart city applications due to the proliferation of Bluetooth-enabled devices. However, the BLE beacon network usually suffers from high maintenance costs due to the short battery lifetime. A recent work proposed duty-cycling BLE advertising interval subject to the detected existence of a user; if a user is detected, the beacon operates in a shorter advertising interval, otherwise operates in a longer advertising interval to reduce its energy consumption. However, since such reactive approach operates based on hardcoded advertising intervals for the two scenarios, the energy-efficiency is bound to be sub-optimal. To overcome this limitation, this paper proposes to predict the user traffic condition thereby adapting the optimal advertising interval based on the predicted user traffic condition. To this end, we introduce a novel neural network architecture that learns partial correlation and leverages attention mechanism to make accurate predictions with minimum prediction lag. The effectiveness of the proposed learning methods is verified by comprehensive simulations. It is proved that the proposed method can extend a beacon lifetime by at least 200% more than the state-of-the-art techniques.</description>
+    </item>
+    
+    <item>
+      <title>[C8] Extending BLE beacon lifetime by a novel neural network-driven framework</title>
+      <link>https://kejeon.github.io/publications/c8/</link>
+      <pubDate>Sat, 03 Jan 1970 16:42:05 +0900</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c8/</guid>
+      <description>Bluetooth Low Energy (BLE) beacon networks are a popular infrastructure for IoT and smart city applications due to their scalability and affordability, as well as the proliferation of Bluetooth-enabled devices. However, BLE beacon networks suffer from short battery lifetime, inducing additional maintenance costs. Previous works have tackled this problem by proposing a more energy-efficient BLE beacon firmware that will change its operating configuration based on user existence information. However, previous efforts could not adapt to varying user traffic conditions and therefore was impractical. To address this issue, this paper proposes a novel neural network-driven framework, User-P, that extends beacon lifetime by changing its operating configuration by predicting user traffic conditions. Furthermore, the paper also presents a novel machine learning method tailored for user traffic prediction. Last but not least, the effectiveness of the proposed framework and methods are proven through a set of simulations. The simulation results show that the proposed framework can extend the beacon lifetime by 180% in comparison to that of the state-of-the-art techniques.</description>
+    </item>
+    
+    <item>
+      <title>[C7] Efficient Updates of Battery Status for BLE Beacon Network</title>
+      <link>https://kejeon.github.io/publications/c7/</link>
+      <pubDate>Sat, 03 Jan 1970 14:03:41 +0900</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c7/</guid>
+      <description>Bluetooth low energy (BLE) beacon network is one of the most favored IoT infrastructures due to its flexibility and scalability. Monitoring and updating the battery statuses of the on-site BLE beacons is an essential task for reliable operation and timely maintenance of the infrastructure. However, unregulated frequent updates of the battery statuses result in stressing the beacon network management platform, possibly threatening the reliable operation of the infrastructure. Whereas too infrequent updates degrade the freshness and reliability of the updated information. Without a reliable estimation on battery status, management and timely battery replacement operation would be difficult. To address this issue, this paper presents an efficient update method of battery status for BLE beacon network that minimizes the stress on the management platform server. The proposed approach leverages the correlation in battery status information between certain beacons to reduce the number of necessary updates while retaining high accuracy. Necessary reference data estimation, reference data reliability checking, and error correction on the estimation are the three major components in the solution. An estimation model allows accurate estimation in the cold-start stage. Moreover, an error-correction model allows to check the reliability of reference data and make a correction on the estimated value.</description>
+    </item>
+    
+    <item>
+      <title>[C6] Maximizing energy harvesting with adjustable solar panel for BLE beacon</title>
+      <link>https://kejeon.github.io/publications/c6/</link>
+      <pubDate>Sat, 03 Jan 1970 13:58:34 +0900</pubDate>
+      
+      <guid>https://kejeon.github.io/publications/c6/</guid>
+      <description>Bluetooth Low Energy (BLE) beacons can be powered up with a small coin cell battery. The problem with battery-powered beacon is that frequent battery replacement is required. Such a battery replacement process can be very tedious considering the massive amount of already deployed beacons. While solar-powered beacons have emerged as an alternative to the battery-powered beacon, beacon deployment is challenging considering the very low ambient light energy available in indoor environments. This paper presents an innovate solar-powered beacon with an adjustable solar panel. In particular, we employ Markov Decision Process (MDP) to model the angle adjusting problem. The contribution of this paper is two-fold 1) the MDP formulation is based on the insight obtained from a series of preliminary experiments which unveil the relationship between the incident angle and the harvested power; 2) our experiment shows that the legacy Policy Iteration (PI) and Value Iteration (VI) algorithms achieve similar optimized decision-making by adjusting the angle of solar panels such that to quickly charge up the beacon when it is low in energy. This rapid charging time guarantees the sustainable operation of solar-powered beacons in indoor environments.</description>
+    </item>
+    
+  </channel>
+</rss>
