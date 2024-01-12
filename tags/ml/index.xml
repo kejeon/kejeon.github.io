@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 1970 01:11:40 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jan 1970 00:11:40 +0800</lastBuildDate><atom:link href="https://kejeon.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[C16] Early detection of global instability via recurrence plots and neural networks</title>
       <link>https://kejeon.github.io/publications/c16/</link>
-      <pubDate>Sun, 04 Jan 1970 01:11:40 +0900</pubDate>
+      <pubDate>Sun, 04 Jan 1970 00:11:40 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c16/</guid>
       <description>We present a data-driven approach for the early detection of global instability in an axisymmetric low-density jet, a prototypical open shear flow. Under certain conditions, such jets are known to undergo a Hopf bifurcation to global instability in the form of self-excited limit-cycle flow oscillations. Such oscillations are undesirable in many situations, especially when they couple with structural or acoustic modes. Our solution combines the topological visualization capabilities of recurrence plots (RPs) with the classification capabilities of neural networks to create a hybrid framework for early detection of global instability. Specifically, we construct two-dimensional unbinarized RPs from time traces of the local jet velocity measured experimentally in the unconditionally stable fixed-point regime. Using these RPs, we train a residual neural network (ResNet), a deep learning model that uses residual connections to overcome the vanishing gradient problem. Our results indicate that this hybrid framework can generate early warning indicators of global instability using only data collected before the bifurcation point, providing a useful tool for avoiding limit-cycle oscillations in open shear flows.</description>

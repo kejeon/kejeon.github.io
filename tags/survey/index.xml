@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 1970 11:06:40 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 1970 10:06:40 +0800</lastBuildDate><atom:link href="https://kejeon.github.io/tags/survey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[J2] BLE beacons for Internet of Things applications: Survey, challenges, and opportunities</title>
       <link>https://kejeon.github.io/publications/j2/</link>
-      <pubDate>Sat, 03 Jan 1970 11:06:40 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 10:06:40 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j2/</guid>
       <description>While the Internet of Things (IoT) is driving a transformation of current society toward a smarter one, new challenges and opportunities have arisen to accommodate the demands of IoT development. Low power wireless devices are, undoubtedly, the most viable solution for diverse IoT use cases. Among such devices, Bluetooth low energy (BLE) beacons have emerged as one of the most promising due to the ubiquity of Bluetooth-compatible devices, such as iPhones and Android smartphones. However, for BLE beacons to continue penetrating the IoT ecosystem in a holistic manner, interdisciplinary research is needed to ensure seamless integration. This paper consolidates the information on the state-of-the-art BLE beacon, from its application and deployment cases, hardware requirements, and casing design to its software and protocol design, and it delivers a timely review of the related research challenges. In particular, the BLE beacon&amp;rsquo;s cutting-edge applications, the interoperability between packet profiles, the reliability of its signal detection and distance estimation methods, the sustainability of its low energy, and its deployment constraints are discussed to identify research opportunities and directions.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>[J1] When smart devices interact with pervasive screens: A survey</title>
       <link>https://kejeon.github.io/publications/j1/</link>
-      <pubDate>Sat, 03 Jan 1970 08:26:52 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 07:26:52 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j1/</guid>
       <description>The meeting of pervasive screens and smart devices has witnessed the birth of screen-smart device interaction (SSI), a key enabler to many novel interactive use cases. Most current surveys focus on direct human-screen interaction, and to the best of our knowledge, none have studied state-of-the-art SSI. This survey identifies three core elements of SSI and delivers a timely discussion on SSI oriented around the screen, the smart device, and the interaction modality. Two evaluation metrics (i.e., interaction latency and accuracy) have been adopted and refined to match the evaluation criterion of SSI. The bottlenecks that hinder the further advancement of the current SSI in connection with this metrics are studied. Last, future research challenges and opportunities are highlighted in the hope of inspiring continuous research efforts to realize the next generation of SSI.</description>

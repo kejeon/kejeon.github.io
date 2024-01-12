@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 1970 01:06:42 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/ble-beacon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jan 1970 00:06:42 +0800</lastBuildDate><atom:link href="https://kejeon.github.io/tags/ble-beacon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[J8] LuXSensing Beacon: Batteryless IoT Sensor, Design Methodology, and Field Test for Sustainable Greenhouse Monitoring</title>
       <link>https://kejeon.github.io/publications/j8/</link>
-      <pubDate>Sun, 04 Jan 1970 01:06:42 +0900</pubDate>
+      <pubDate>Sun, 04 Jan 1970 00:06:42 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j8/</guid>
       <description>Greenhouse farming is a trending practice to secure food production in desert environments. Such a practice often requires sensing systems to monitor the greenhouse microclimate. However, traditional monitoring systems are often limited by their feature size, energy consumption, and maintenance cost. To address these issues, this article introduces a luXSensing beacon—an energy harvesting sensing device empowered with Bluetooth communication technology to perform continuous environmental sensing. To enable long-lasting or even batteryless operation of the sensing device, we propose a novel and generic design methodology to suggest minimum energy harvesting hardware requirements, namely the photovoltaic panel&amp;rsquo;s area and supercapacitor&amp;rsquo;s size for energy storage. In addition, a lifetime model is also proposed to calculate the extended lifetime of a hybrid energy harvesting device if it is equipped with a backup battery. Based on the proposed methodology, a prototype system is developed, deployed, and tested in a desert greenhouse. The luXSensing beacon demonstrated its capability of monitoring air temperature and illuminance continuously in a 24/7 manner. The comparative compactness and low-energy consumption of the system are advantageous not only to its deployment in greenhouses but also to the reduction of energy budget and the maintenance cost of greenhouse farming.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>[J7] Sensing-aware Machine Learning Framework for Extended Lifetime of IoT Sensors</title>
       <link>https://kejeon.github.io/publications/j7/</link>
-      <pubDate>Sun, 04 Jan 1970 01:00:17 +0900</pubDate>
+      <pubDate>Sun, 04 Jan 1970 00:00:17 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j7/</guid>
       <description>Bluetooth Low Energy (BLE) beacon network is one of the essential infrastructures for many IoT and smart city applications that involve a plethora of sensing tasks. However, the BLE beacon network usually suffers from poor reliability and high maintenance costs due to the short-lived battery lifetime. Multiple works have attempted to extend the lifetime via energy harvesting hardware, adaptive advertising interval by user existence-aware operation, and energy-efficient routing schemes. However, few attempts were made to reduce the energy consumption related to sensing tasks. In light of this shortcoming, a sensing-aware framework is proposed to adjust the sensing task interval adaptively based on the predicted portion of changes of the sensor measurements. Furthermore, to estimate the impact of varying sensing task intervals on the amount of sensed information, a model that correlates energy and amount of information is proposed. The sensor portion of changes is predicted with a novel neural network, coined oracle-interpreter network, that significantly reduces the energy consumption while upkeeping a good prediction accuracy by leveraging two independent neural networks tailored for feature extraction and prediction tasks. The effectiveness of the proposed framework is verified by comprehensive simulations based on real-life data. The results demonstrate that the proposed framework can effectively reduce the energy consumption involved in sensing tasks up to 30%, machine learning tasks up to 60%, and finally, extend the lifetime up to 75%.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>[J6] An Efficient Framework of Energy Status Reporting for BLE Beacon Networks</title>
       <link>https://kejeon.github.io/publications/j6/</link>
-      <pubDate>Sun, 04 Jan 1970 00:55:18 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 23:55:18 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j6/</guid>
       <description>With growing demands for Internet of Things (IoT) applications, BLE beacon networks are rapidly being adopted. Periodic battery replacement operations and onsite maintenance are required to ensure continuous and reliable service. These operations are labor intensive and resource exhaustive. Therefore, Bluetooth gateways/mobile devices are often employed to monitor/collect the energy status. However, the gateways consume a considerable amount of network requests, and the user existence influences the data collection, thus the data accuracy, based on mobile devices. Reducing the number of energy status reports and maintaining the high accuracy of the energy status monitoring service is essential to catalyze a generic adoption of beacon networks and IoT infrastructure of similar nature in more businesses and real-life applications. In this article, we proposed a novel energy status monitoring framework that will dynamically change the energy status report interval based on the discharging rate of the battery, thereby reducing the total number of network requests and maintaining the required accuracy of energy status. The proposed framework identifies the BLE beacons with similar battery discharging rates, suggests a dynamic report interval, and leverages this information to reduce the number of energy status reports. We have experimented with real-life BLE beacon energy status data for 50 days to demonstrate that we could reduce the total number of network requests up to 70% while retaining 99% estimation accuracy.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>[C11] Energy Status Recovery using Recurrent SVR Framework for Solar BLE Beacons</title>
       <link>https://kejeon.github.io/publications/c11/</link>
-      <pubDate>Sat, 03 Jan 1970 22:13:30 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 21:13:30 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c11/</guid>
       <description>To address the short-lived battery lifetime of Bluetooth low energy (BLE) beacons, solar-powered designs were proposed, equipped with rechargeable energy storage such as a supercapacitor. However, energy status monitoring, which is essential for device maintenance, proved to be a major concern as the energy status of energy harvesting devices can change quickly due to charging and discharging behaviours. Existing energy status monitoring methods performed in a crowd-assisted manner or by demanding on-site data collections are accompanied by severe loss of energy status information. This paper presents an accurate energy status recovery framework with SVR to address this issue. The proposed framework leverages recurrent training of SVR with lost energy status information to capture features from discharge behaviour to achieve high accuracy while minimizing the training and prediction time. Multiple real-life BLE beacon energy level records are evaluated to demonstrate that our proposed framework can recover the energy information with at least 90% accuracy under a data loss rate of up to 99%.</description>
@@ -51,7 +51,7 @@
     <item>
       <title>[M1] Privacy-preserving and sustainable contact tracing using batteryless bluetooth low-energy beacons</title>
       <link>https://kejeon.github.io/publications/m1/</link>
-      <pubDate>Sat, 03 Jan 1970 19:37:09 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:37:09 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/m1/</guid>
       <description>Contact tracing is the technology choice of reference to address the COVID-19 pandemic. Many of the current approaches have severe privacy and security issues and fail to offer a sustainable contact tracing infrastructure. We address these issues introducing an innovative, privacy-preserving, sustainable, and experimentally tested architecture that leverages batteryless Bluetooth low-energy beacons.</description>
@@ -60,7 +60,7 @@
     <item>
       <title>[J5] Distance Estimation Using BLE Beacon on Stationary and Mobile Objects</title>
       <link>https://kejeon.github.io/publications/j5/</link>
-      <pubDate>Sat, 03 Jan 1970 19:36:58 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:36:58 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j5/</guid>
       <description>One key feature of Bluetooth low energy (BLE) beacons is the received signal strength, which can be used to estimate the distance between any Bluetooth-compatible receiver (e.g., smartphone, tablet, etc.) and fixed deployed beacon. Although received signal strength (RSS) can be measured easily with commonly available smart devices, the measurements are unreliable, in which general estimation models are not robust to different hardware and settings for real deployed beacon networks. Furthermore, the lack of consideration for object mobility in these models undermines its practicality. Motivated by the above limitations, this article proposes a novel distance classifier, d-Classifier, to classify the distance with a feature vector constructed with features such as hardware type and deployment environment to improve the robustness. Moreover, comprehensive experiments related to mobility are conducted to study the relationship between packet receiving rate and estimation accuracy. Improved performance can be achieved by providing extra mobility information with a list of RSS values during estimation. The proposed classifier is validated with an extensive data set that includes over 200 k data collected from real beacon networks. Overall, our proposed d-Classifier achieves a significant performance gain, &amp;gt;25% accuracy improvement, over its prior arts.</description>
@@ -69,7 +69,7 @@
     <item>
       <title>[C10] Improved energy harvesting with one-time adjusted solar panel for BLE beacon</title>
       <link>https://kejeon.github.io/publications/c10/</link>
-      <pubDate>Sat, 03 Jan 1970 19:27:05 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:27:05 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c10/</guid>
       <description>As Internet of things (IoT) infrastructures such as BLE beacon networks are gaining more attention, excessive battery consumption and subsequent maintenance operations have proven to be crucial drawbacks. As part of the green IoT trend, light energy harvesting BLE beacons have been proposed in the literature to reduce energy consumption from batteries and extend their lifetime. However, these devices do not consider adjusting the angle of the solar panel, which prevents them from maximizing their energy harvesting capability by adapting to various indoor lighting conditions. Furthermore, an algorithm to compute the angle to optimize the energy harvesting capability has not yet been investigated for small energy harvesting IoT devices. To address such issues, our paper first proposes a model of lighting conditions in an environment with multiple light sources, and based on the proposed model, we present an algorithm to compute the optimal angle of the solar panel that would maximize the harvested energy. Finally, we prototype an energy harvesting BLE beacon with an adjustable solar panel angle and conduct real-life experiments in three different locations with varying lighting conditions. The experiments prove that the proposed design can accelerate the energy storage charging rate by up to 570%.</description>
@@ -78,7 +78,7 @@
     <item>
       <title>[C9] BLE beacon with user traffic awareness using deep correlation and attention network</title>
       <link>https://kejeon.github.io/publications/c9/</link>
-      <pubDate>Sat, 03 Jan 1970 19:25:29 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:25:29 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c9/</guid>
       <description>Bluetooth Low Energy (BLE) beacon network is one of the essential infrastructures for many IoT and smart city applications due to the proliferation of Bluetooth-enabled devices. However, the BLE beacon network usually suffers from high maintenance costs due to the short battery lifetime. A recent work proposed duty-cycling BLE advertising interval subject to the detected existence of a user; if a user is detected, the beacon operates in a shorter advertising interval, otherwise operates in a longer advertising interval to reduce its energy consumption. However, since such reactive approach operates based on hardcoded advertising intervals for the two scenarios, the energy-efficiency is bound to be sub-optimal. To overcome this limitation, this paper proposes to predict the user traffic condition thereby adapting the optimal advertising interval based on the predicted user traffic condition. To this end, we introduce a novel neural network architecture that learns partial correlation and leverages attention mechanism to make accurate predictions with minimum prediction lag. The effectiveness of the proposed learning methods is verified by comprehensive simulations. It is proved that the proposed method can extend a beacon lifetime by at least 200% more than the state-of-the-art techniques.</description>
@@ -87,7 +87,7 @@
     <item>
       <title>[J4] User existence-aware BLE beacon firmware for maximized battery lifetime</title>
       <link>https://kejeon.github.io/publications/j4/</link>
-      <pubDate>Sat, 03 Jan 1970 16:45:01 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 15:45:01 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j4/</guid>
       <description>Bluetooth low energy (BLE) beacon networks are one common infrastructure for IoT and smart city applications because of their scalability and affordability, as well as the proliferation of Bluetooth-enabled devices. However, BLE beacon networks suffer from short battery lifetime, which induces additional maintenance costs. In this paper, we propose a novel user existence-aware BLE beacon firmware, User-B, that extends BLE beacon lifetime by changing its operating configuration. Leveraging scan response and request features of Bluetooth Core Specifications, a mechanism for the detection of nearby user smartphones is proposed. Furthermore, we present an energy consumption model of the proposed firmware, along with an optimization problem for finding the optimal configuration that minimizes the overall energy consumption and overhead induced by switching delay. Last but not least, we introduce a prototype of the User-B firmware and demonstrate experiments. Through the experiments, we prove that the User-B firmware can extend a beacon&amp;rsquo;s lifetime up to 250 percent under low user-existence frequency and high energy demand application conditions.</description>
@@ -96,7 +96,7 @@
     <item>
       <title>[C8] Extending BLE beacon lifetime by a novel neural network-driven framework</title>
       <link>https://kejeon.github.io/publications/c8/</link>
-      <pubDate>Sat, 03 Jan 1970 16:42:05 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 15:42:05 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c8/</guid>
       <description>Bluetooth Low Energy (BLE) beacon networks are a popular infrastructure for IoT and smart city applications due to their scalability and affordability, as well as the proliferation of Bluetooth-enabled devices. However, BLE beacon networks suffer from short battery lifetime, inducing additional maintenance costs. Previous works have tackled this problem by proposing a more energy-efficient BLE beacon firmware that will change its operating configuration based on user existence information. However, previous efforts could not adapt to varying user traffic conditions and therefore was impractical. To address this issue, this paper proposes a novel neural network-driven framework, User-P, that extends beacon lifetime by changing its operating configuration by predicting user traffic conditions. Furthermore, the paper also presents a novel machine learning method tailored for user traffic prediction. Last but not least, the effectiveness of the proposed framework and methods are proven through a set of simulations. The simulation results show that the proposed framework can extend the beacon lifetime by 180% in comparison to that of the state-of-the-art techniques.</description>
@@ -105,7 +105,7 @@
     <item>
       <title>[C7] Efficient Updates of Battery Status for BLE Beacon Network</title>
       <link>https://kejeon.github.io/publications/c7/</link>
-      <pubDate>Sat, 03 Jan 1970 14:03:41 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 13:03:41 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c7/</guid>
       <description>Bluetooth low energy (BLE) beacon network is one of the most favored IoT infrastructures due to its flexibility and scalability. Monitoring and updating the battery statuses of the on-site BLE beacons is an essential task for reliable operation and timely maintenance of the infrastructure. However, unregulated frequent updates of the battery statuses result in stressing the beacon network management platform, possibly threatening the reliable operation of the infrastructure. Whereas too infrequent updates degrade the freshness and reliability of the updated information. Without a reliable estimation on battery status, management and timely battery replacement operation would be difficult. To address this issue, this paper presents an efficient update method of battery status for BLE beacon network that minimizes the stress on the management platform server. The proposed approach leverages the correlation in battery status information between certain beacons to reduce the number of necessary updates while retaining high accuracy. Necessary reference data estimation, reference data reliability checking, and error correction on the estimation are the three major components in the solution. An estimation model allows accurate estimation in the cold-start stage. Moreover, an error-correction model allows to check the reliability of reference data and make a correction on the estimated value.</description>
@@ -114,7 +114,7 @@
     <item>
       <title>[C6] Maximizing energy harvesting with adjustable solar panel for BLE beacon</title>
       <link>https://kejeon.github.io/publications/c6/</link>
-      <pubDate>Sat, 03 Jan 1970 13:58:34 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 12:58:34 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c6/</guid>
       <description>Bluetooth Low Energy (BLE) beacons can be powered up with a small coin cell battery. The problem with battery-powered beacon is that frequent battery replacement is required. Such a battery replacement process can be very tedious considering the massive amount of already deployed beacons. While solar-powered beacons have emerged as an alternative to the battery-powered beacon, beacon deployment is challenging considering the very low ambient light energy available in indoor environments. This paper presents an innovate solar-powered beacon with an adjustable solar panel. In particular, we employ Markov Decision Process (MDP) to model the angle adjusting problem. The contribution of this paper is two-fold 1) the MDP formulation is based on the insight obtained from a series of preliminary experiments which unveil the relationship between the incident angle and the harvested power; 2) our experiment shows that the legacy Policy Iteration (PI) and Value Iteration (VI) algorithms achieve similar optimized decision-making by adjusting the angle of solar panels such that to quickly charge up the beacon when it is low in energy. This rapid charging time guarantees the sustainable operation of solar-powered beacons in indoor environments.</description>
@@ -123,7 +123,7 @@
     <item>
       <title>[C5] User existence-aware BLE beacon firmware for extended battery lifetime</title>
       <link>https://kejeon.github.io/publications/c5/</link>
-      <pubDate>Sat, 03 Jan 1970 13:53:35 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 12:53:35 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c5/</guid>
       <description>Bluetooth Low Energy (BLE) beacon networks are one common infrastructure for IoT and smart city applications because of their scalability and affordability, as well as the proliferation of Bluetooth-enabled devices. However, BLE beacon networks suffer from short battery lifetime, which induces additional maintenance costs. In this paper, we propose a novel user existence-aware BLE beacon firmware, USTEA, that extends BLE beacon lifetime by changing its operating configuration. Leveraging scan response and request features of Bluetooth Core Specifications, a mechanism for the detection of nearby user smartphones is proposed. Furthermore, we present an energy consumption model of the proposed firmware, along with an optimization problem for finding the optimal configuration that minimizes the overall energy consumption and overhead induced by switching delay. Last but not least, we introduce a prototype of the USTEA firmware and demonstrate experiments. Through the experiments, we prove that the USTEA firmware can extend a beacon&amp;rsquo;s lifetime up to 250% under low user-existence frequency and high energy demand application conditions.</description>
@@ -132,7 +132,7 @@
     <item>
       <title>[J3] luXbeacon—A batteryless beacon for green IoT: Design, modeling, and field tests</title>
       <link>https://kejeon.github.io/publications/j3/</link>
-      <pubDate>Sat, 03 Jan 1970 13:48:43 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 12:48:43 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j3/</guid>
       <description>The maturing deployment of the Internet of Things is gradually realizing new smart applications that strongly leverage recent advances in proximity detection methods. To this end, Bluetooth low energy (BLE) beacons are one of the preferred candidates because of the widespread use of Bluetooth-enabled devices. However, traditional battery-powered BLE beacons suffer from a limited operation lifetime, inducing additional maintenance operations and costs. This paper addresses this issue by proposing design principles for an ambient light energy harvesting BLE beacon capable of perpetual operation in the indoor environment. The contributions made in this paper include 1) investigation and modeling of related hardware components, namely the BLE beacon, photovoltaic panel, and capacitor; 2) design principles for selecting hardware components subject to varying environmental conditions and application requirements; and 3) prototyping and field-tests to prove its practicality. Through multiple experiments, this paper proves that the design can operate perpetually under 40 lux light intensity, and can last over 17 h once fully charged.</description>
@@ -141,7 +141,7 @@
     <item>
       <title>[C4] A crowd-assisted architecture for securing BLE beacon-based IoT infrastructure</title>
       <link>https://kejeon.github.io/publications/c4/</link>
-      <pubDate>Sat, 03 Jan 1970 11:06:55 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 10:06:55 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c4/</guid>
       <description>A BLE beacon is a small electronic device that has recently been proposed as a building block to construct an infrastructure supporting emerging smart applications. However, due to its simple communication protocol architecture, which broadcasts a static payload, a BLE beacon-based infrastructure is vulnerable to different types of abuses and attacks, in particular free-riding and device spoofing. Many beacon manufacturers propose dynamically randomizing beacon advertisement packets at the device firmware level as a solution. However, this approach is difficult to implement for already deployed beacon nodes as it requires a firmware update on each device. To alleviate these drawbacks, a crowd-assisted architecture for securing BLE beacons is proposed in this paper. A detailed architecture is presented along with experimental results and an implementation to demonstrate its feasibility. It is found that the beacon ID can be changed by user&amp;rsquo;s mobile phone within a 20 m range with probability of almost 100% under both stationary and mobile conditions.</description>
@@ -150,7 +150,7 @@
     <item>
       <title>[J2] BLE beacons for Internet of Things applications: Survey, challenges, and opportunities</title>
       <link>https://kejeon.github.io/publications/j2/</link>
-      <pubDate>Sat, 03 Jan 1970 11:06:40 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 10:06:40 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j2/</guid>
       <description>While the Internet of Things (IoT) is driving a transformation of current society toward a smarter one, new challenges and opportunities have arisen to accommodate the demands of IoT development. Low power wireless devices are, undoubtedly, the most viable solution for diverse IoT use cases. Among such devices, Bluetooth low energy (BLE) beacons have emerged as one of the most promising due to the ubiquity of Bluetooth-compatible devices, such as iPhones and Android smartphones. However, for BLE beacons to continue penetrating the IoT ecosystem in a holistic manner, interdisciplinary research is needed to ensure seamless integration. This paper consolidates the information on the state-of-the-art BLE beacon, from its application and deployment cases, hardware requirements, and casing design to its software and protocol design, and it delivers a timely review of the related research challenges. In particular, the BLE beacon&amp;rsquo;s cutting-edge applications, the interoperability between packet profiles, the reliability of its signal detection and distance estimation methods, the sustainability of its low energy, and its deployment constraints are discussed to identify research opportunities and directions.</description>
@@ -159,7 +159,7 @@
     <item>
       <title>[C1] Preliminary design for sustainable BLE beacons powered by solar panels</title>
       <link>https://kejeon.github.io/publications/c1/</link>
-      <pubDate>Sat, 03 Jan 1970 05:33:30 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 04:33:30 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c1/</guid>
       <description>In the coming age of Internet of Things, the underlying infrastructure that supports IoT applications will play a pivotal role. Bluetooth Low Energy Beacons, small radio frequency broadcasters that advertise their unique identification, have been highlighted for their possible usage in the IoT infrastructure, as a sensor network of BLE Beacons is capable of providing contextual and locational information to the users. However, as the size of the wireless sensor network has grown, finite battery capacity has proven to be a major challenge. Due to the limited battery capacity, Beacons require periodic maintenance and battery replacement, which results in increased beacon management cost and complexity. This paper attempts to remedy this problem through the integration of an energy harvesting mechanism with BLE Beacons, and explore the possibilities of using solar power to operate these devices. Experimental results for BLE Beacon power consumption and solar panel power output characteristics are presented, and therefore baseline parameters of the power requirements for sustainable BLE Beacons are established. Furthermore, a preliminary design of a solar-powered BLE Beacon is presented. It has been shown that a typical BLE Beacon with a transmission power of 0 dbm and advertising interval of 800 ms can be powered by a solar panel with surface area of 300 cm2 , and a lithium ion rechargeable coin cell battery, LIR2450, with a nominal voltage of 3.6 V can be recharged by a solar panel with a surface area of 88 cm2.</description>

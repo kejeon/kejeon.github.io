@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 1970 19:36:58 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/distance-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 1970 18:36:58 +0800</lastBuildDate><atom:link href="https://kejeon.github.io/tags/distance-estimation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[J5] Distance Estimation Using BLE Beacon on Stationary and Mobile Objects</title>
       <link>https://kejeon.github.io/publications/j5/</link>
-      <pubDate>Sat, 03 Jan 1970 19:36:58 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:36:58 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/j5/</guid>
       <description>One key feature of Bluetooth low energy (BLE) beacons is the received signal strength, which can be used to estimate the distance between any Bluetooth-compatible receiver (e.g., smartphone, tablet, etc.) and fixed deployed beacon. Although received signal strength (RSS) can be measured easily with commonly available smart devices, the measurements are unreliable, in which general estimation models are not robust to different hardware and settings for real deployed beacon networks. Furthermore, the lack of consideration for object mobility in these models undermines its practicality. Motivated by the above limitations, this article proposes a novel distance classifier, d-Classifier, to classify the distance with a feature vector constructed with features such as hardware type and deployment environment to improve the robustness. Moreover, comprehensive experiments related to mobility are conducted to study the relationship between packet receiving rate and estimation accuracy. Improved performance can be achieved by providing extra mobility information with a list of RSS values during estimation. The proposed classifier is validated with an extensive data set that includes over 200 k data collected from real beacon networks. Overall, our proposed d-Classifier achieves a significant performance gain, &amp;gt;25% accuracy improvement, over its prior arts.</description>

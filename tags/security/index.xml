@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 1970 19:37:09 +0900</lastBuildDate><atom:link href="https://kejeon.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 1970 18:37:09 +0800</lastBuildDate><atom:link href="https://kejeon.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[M1] Privacy-preserving and sustainable contact tracing using batteryless bluetooth low-energy beacons</title>
       <link>https://kejeon.github.io/publications/m1/</link>
-      <pubDate>Sat, 03 Jan 1970 19:37:09 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 18:37:09 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/m1/</guid>
       <description>Contact tracing is the technology choice of reference to address the COVID-19 pandemic. Many of the current approaches have severe privacy and security issues and fail to offer a sustainable contact tracing infrastructure. We address these issues introducing an innovative, privacy-preserving, sustainable, and experimentally tested architecture that leverages batteryless Bluetooth low-energy beacons.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>[C4] A crowd-assisted architecture for securing BLE beacon-based IoT infrastructure</title>
       <link>https://kejeon.github.io/publications/c4/</link>
-      <pubDate>Sat, 03 Jan 1970 11:06:55 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 10:06:55 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c4/</guid>
       <description>A BLE beacon is a small electronic device that has recently been proposed as a building block to construct an infrastructure supporting emerging smart applications. However, due to its simple communication protocol architecture, which broadcasts a static payload, a BLE beacon-based infrastructure is vulnerable to different types of abuses and attacks, in particular free-riding and device spoofing. Many beacon manufacturers propose dynamically randomizing beacon advertisement packets at the device firmware level as a solution. However, this approach is difficult to implement for already deployed beacon nodes as it requires a firmware update on each device. To alleviate these drawbacks, a crowd-assisted architecture for securing BLE beacons is proposed in this paper. A detailed architecture is presented along with experimental results and an implementation to demonstrate its feasibility. It is found that the beacon ID can be changed by user&amp;rsquo;s mobile phone within a 20 m range with probability of almost 100% under both stationary and mobile conditions.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>[C1] Preliminary design for sustainable BLE beacons powered by solar panels</title>
       <link>https://kejeon.github.io/publications/c1/</link>
-      <pubDate>Sat, 03 Jan 1970 05:33:30 +0900</pubDate>
+      <pubDate>Sat, 03 Jan 1970 04:33:30 +0800</pubDate>
       
       <guid>https://kejeon.github.io/publications/c1/</guid>
       <description>In the coming age of Internet of Things, the underlying infrastructure that supports IoT applications will play a pivotal role. Bluetooth Low Energy Beacons, small radio frequency broadcasters that advertise their unique identification, have been highlighted for their possible usage in the IoT infrastructure, as a sensor network of BLE Beacons is capable of providing contextual and locational information to the users. However, as the size of the wireless sensor network has grown, finite battery capacity has proven to be a major challenge. Due to the limited battery capacity, Beacons require periodic maintenance and battery replacement, which results in increased beacon management cost and complexity. This paper attempts to remedy this problem through the integration of an energy harvesting mechanism with BLE Beacons, and explore the possibilities of using solar power to operate these devices. Experimental results for BLE Beacon power consumption and solar panel power output characteristics are presented, and therefore baseline parameters of the power requirements for sustainable BLE Beacons are established. Furthermore, a preliminary design of a solar-powered BLE Beacon is presented. It has been shown that a typical BLE Beacon with a transmission power of 0 dbm and advertising interval of 800 ms can be powered by a solar panel with surface area of 300 cm2 , and a lithium ion rechargeable coin cell battery, LIR2450, with a nominal voltage of 3.6 V can be recharged by a solar panel with a surface area of 88 cm2.</description>
